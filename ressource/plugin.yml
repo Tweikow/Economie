@@ -1,0 +1,13 @@
+name: Economie
+version: 1.0
+author: Tweikow
+main: fr.tweikow.economie.Main
+commands:
+  eco:
+  money:
+    aliases:
+      - balance
+      - bal
+      - argent
+      - coins
+  pay:
